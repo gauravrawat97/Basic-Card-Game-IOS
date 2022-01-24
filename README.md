@@ -1,5 +1,6 @@
-<div style="text-align:center">
+<p style="text-align:center">
 Basic Card App IOS
-</div>
+</p>
+<br/>
+![Demo](demo.gif)
 
- ![ Alt text](Demo of App) / ! [](demo. gif)
